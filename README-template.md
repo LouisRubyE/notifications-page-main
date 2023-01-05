@@ -34,6 +34,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
+
 Add a screenshot of your solution. Crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
@@ -87,16 +88,15 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1](https://www.youtube.com/watch?v=qs_VhlPq5Ik&t=6s) - This video helped me alot since it's almost similar and is really straightforward, i also really like the fonts and how the design looks
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Your Detail 
 
-- FullName - [Add your name here]
-- StudentID - [Add your StudentID here]
-- BINUS Email - [Add your BINUS email here]
+- FullName - [Louis Ruby Elsalim]
+- StudentID - [2602185431]
+- BINUS Email - [louis.elsalim@binus.ac.id]
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
